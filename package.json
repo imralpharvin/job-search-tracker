@@ -1,0 +1,25 @@
+{
+  "name": "job-search-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imralpharvin/job-search-tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imralpharvin/job-search-tracker/issues"
+  },
+  "homepage": "https://github.com/imralpharvin/job-search-tracker#readme",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "javascript-obfuscator": "^2.9.4",
+    "nodemon": "^2.0.6",
+    "path": "^0.12.7"
+  }
+}
